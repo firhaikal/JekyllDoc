@@ -1,7 +1,7 @@
 - title: "Jekyll"
   children:
     - title: Intro
-      url: ""
+      url: "pengenalan"
     - title: Install Jekyll
       url: ""
     - title: Penggunaan Markdown
