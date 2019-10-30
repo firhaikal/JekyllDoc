@@ -15,6 +15,6 @@
     - title: Install Prince
       url: ""
     - title: Generate ke PDF
-      url: ""
+      url: "generatePDF"
 - title: "About"
   url: "about"
