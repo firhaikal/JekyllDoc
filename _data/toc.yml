@@ -1,0 +1,20 @@
+- title: "Jekyll"
+  children:
+    - title: Intro
+      url: ""
+    - title: Install Jekyll
+      url: ""
+    - title: Penggunaan Markdown
+      url: ""
+    - title: "Deploy Project"
+      url: ""
+- title: "Prince"
+  children:
+    - title: Intro
+      url: ""
+    - title: Install Prince
+      url: ""
+    - title: Generate ke PDF
+      url: ""
+- title: "About"
+  url: "about"
