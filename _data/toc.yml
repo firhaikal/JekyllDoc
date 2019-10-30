@@ -11,9 +11,9 @@
 - title: "Prince"
   children:
     - title: Intro
-      url: ""
+      url: "intro-prince"
     - title: Install Prince
-      url: ""
+      url: "tutorial-install-prince"
     - title: Generate ke PDF
       url: ""
 - title: "About"
