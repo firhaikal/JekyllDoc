@@ -17,16 +17,15 @@
 title: Jekyll Documentation
 email: your-email@domain.com
 author: Dinosaur Avocado
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
+  Jekyll adalah Generator Situs Web Statis sederhana yang mempermudah pengunaanya dalam membuat
+  Website sesuai keinginan. Jekyll ini sendiri dibuat dengan bahasa Pemrograman Ruby
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "" # the base hostname & protocol for your site
+url: "https://http://jekyll-docs.surge.sh" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: ""

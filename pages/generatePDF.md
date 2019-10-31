@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Generate PDF
-permalink: /generatePDF/
+permalink: /generate-pdf/
 ---
 
 # **_Generate_ PDF dari Web**
@@ -10,7 +10,7 @@ permalink: /generatePDF/
 
 Langkah - langkahnya :
 
-**1.** Kita harus mempunyai aplikasi `Prince` terlebih dahulu, jika belum punya bisa mengikuti tutorial [install prince]()
+**1.** Kita harus mempunyai aplikasi `Prince` terlebih dahulu, jika belum punya bisa mengikuti tutorial [install prince](/tutorial-install-prince/)
 
 **2.** Setelah kita mempunyai aplikasi `Prince`, maka langsung buka saja aplikasi `Prince`
 
