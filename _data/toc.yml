@@ -7,7 +7,7 @@
     - title: Penggunaan Markdown
       url: "markdown-tutorial"
     - title: "Deploy Project"
-      url: ""
+      url: "deploy"
 - title: "Prince"
   children:
     - title: Intro
