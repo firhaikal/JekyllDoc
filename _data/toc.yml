@@ -19,10 +19,10 @@
 - title: "QR Code"
   children:
     - title: "Mengambil data dari QR Code"
-    - url: ""
+      url: "ambildataqr"
     - title: "Mengirim Data ke Firebase"
-    - url: ""
+      url: ""
     - title: "Menampilkan Data dari Firebase ke website"
-    - url: ""
+      url: ""
 - title: "About"
   url: "about"
