@@ -21,7 +21,7 @@
     - title: "Mengambil data dari QR Code"
       url: "ambildataqr"
     - title: "Mengirim Data ke Firebase"
-      url: ""
+      url: "send"
     - title: "Menampilkan Data dari Firebase ke website"
       url: "ftw"
 - title: "About"
