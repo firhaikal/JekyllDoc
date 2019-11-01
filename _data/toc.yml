@@ -4,7 +4,7 @@
       url: "pengenalan"
     - title: Install Jekyll
       url: "install-jekyll"
-    - title: Penggunaan Markdown
+    - title: Markdown Basics
       url: "markdown-tutorial"
     - title: "Deploy Project"
       url: "deploy"
@@ -16,5 +16,13 @@
       url: "tutorial-install-prince"
     - title: Generate ke PDF
       url: "generate-pdf"
+- title: "QR Code"
+  children:
+    - title: "Mengambil data dari QR Code"
+    - url: ""
+    - title: "Mengirim Data ke Firebase"
+    - url: ""
+    - title: "Menampilkan Data dari Firebase ke website"
+    - url: ""
 - title: "About"
   url: "about"
